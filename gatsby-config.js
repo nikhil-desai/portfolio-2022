@@ -7,14 +7,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emma-core/gatsby-config.js
-    siteTitle: `Emma`,
-    siteTitleAlt: `Emma - Gatsby Starter Portfolio`,
-    siteHeadline: `Emma - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://emma.lekoarts.de`,
-    siteDescription: `Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images`,
+    siteTitle: `Nikhil Designs`,
+    siteTitleAlt: `Portfolio for Nikhil Desai`,
+    siteHeadline: `Nikhil Designs Portfolio`,
+    siteUrl: `https://nikhildesigns.com`,
+    siteDescription: `The portfolio of product designer, Nikhil Desai.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@nikhildesigns_`,
   },
   plugins: [
     {
@@ -31,9 +31,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Emma - @lekoarts/gatsby-theme-emma`,
-        short_name: `Emma`,
-        description: `Minimalistic bright portfolio with full-width grid and large images`,
+        name: `Nikhil Designs Portfolio`,
+        short_name: `Nikhil`,
+        description: `The portfolio of product designer, Nikhil Desai.`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
